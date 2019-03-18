@@ -15,3 +15,4 @@ Flask was used to create the following available routes:
 
 ## Step 2 - Heroku
 Flask app is deployed to Heroku:
+https://bellybuttondiversity-kw.herokuapp.com/
