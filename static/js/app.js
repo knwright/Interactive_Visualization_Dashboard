@@ -19,9 +19,6 @@ function buildMetadata(sample) {
       sample_metadata.append('h6').text(`${key}: ${value}`);
     })
 
-    // BONUS: Build the Gauge Chart
-    // buildGauge(data.WFREQ);
-
   })
      
 }
