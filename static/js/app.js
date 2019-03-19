@@ -20,7 +20,8 @@ function buildMetadata(sample) {
     })
 
   })
-     
+    // Build the guage chart
+    buildGauge(sample);     
 }
 
 function buildCharts(sample) {
